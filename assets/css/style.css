@@ -1,0 +1,43 @@
+#bg{
+    background: url(../images/map.jpg);  
+    background-size: 100%;    
+}
+h1{
+    padding-bottom: 20px;
+    text-transform: uppercase;
+    text-align: Center;
+}
+#topimage{
+    margin-left: 235px;
+    margin-right: 235px;
+    max-width: 50%;
+    max-height: 15%;
+}
+#compliment{
+    text-transform: capitalize;
+    text-align: left;
+    margin-left: 235px;
+}
+#questions{
+    margin-left: 235px;
+    margin-right: 235px;
+    text-align: left;
+    font-size: 20px;
+}
+#mainimage{
+    width: 500px;
+}
+
+#choices{
+    margin-left: 235px;
+    margin-right: 235px;
+    text-align: left;
+    font-size: 20px;
+}
+
+#timer{
+    margin-left: 235px;
+    margin-right: 235px;
+    text-align: left;
+    font-size: 60px;
+}
